@@ -1,6 +1,3 @@
-# Git_Info
-
-
 # Create New Repositry
 
 Creat a repositry first and get the Link:-Ex-https://github.com/chinu999/pdf
@@ -31,7 +28,7 @@ git commit -m "Fix"
 git push
 ```
 
-#Change gmail and name:-
+# Change gmail and name:-
 ```
 check the img 1st (press back to see the image )
 git config --global user.email "xyz@gmail.com"
