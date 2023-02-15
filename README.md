@@ -37,7 +37,7 @@ git config --global user.name "xyz"
 
 # gitignore
 ```
-create a this name it [.gitignore]
+create a file and name it [.gitignore]
 
 To ignore folder:
 /Setups
