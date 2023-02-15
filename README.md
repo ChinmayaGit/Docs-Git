@@ -34,3 +34,14 @@ check the img 1st (press back to see the image )
 git config --global user.email "xyz@gmail.com"
 git config --global user.name "xyz"
 ```
+
+# gitignore
+```
+create a this name it [.gitignore]
+
+To ignore folder:
+/Setups
+
+To ignore file:
+.history
+```
